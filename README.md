@@ -45,12 +45,13 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out at [your-email@example.com](mailto:mhmdmntf@gmail.com).
+If you have any questions or suggestions, feel free to reach out at [mhmdmntf@gmail.com](mailto:mhmdmntf@gmail.com).
 
 ---
 
 **Connect with me:**
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammed-karam2/))
+- www.linkedin.com/in/mohammed-karam2
+
 
 
