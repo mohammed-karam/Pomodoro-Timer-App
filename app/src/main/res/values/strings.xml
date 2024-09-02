@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pomodoro app</string>
+    <string name="time_25">25:00</string>
+    <string name="start">START</string>
+    <string name="take_a_pomodoro">Take a Pomodoro …</string>
+    <string name="keep_going">keep going …</string>
+    <string name="reset"><u>Reset</u></string>
+    <string name="select">select a value or make it custom</string>
+    <string name="select_title">Select time or pick a Custom value</string>
+    <string name="entering_custom">enter a custom value</string>
+    <string name="ok">OK</string>
+</resources>
